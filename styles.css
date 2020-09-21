@@ -1,0 +1,61 @@
+body {
+    background: black;
+    margin: 0;
+}
+header {
+    background: white;
+}
+div.post{
+    background: white;
+}
+div.post img{
+    width: 100%;
+}
+div.post h2, div.post p{
+    margin: 0;
+    padding: 0 10px;
+}
+div.container {
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+}
+.top {
+    display: inline-block;
+}
+.left-side {
+    /*float: left; */
+    font-size: 12px;
+    margin: 0px;
+    padding: 10px;
+}
+.fab {
+    color: black;
+    font-size: 35px;
+    padding: 5px;
+}
+.far {
+    font-size:35px;
+    padding: 5px;
+}
+.fas{
+    font-size: 35px;
+    padding: 5px;
+}
+
+.right-side {
+    float: right;
+    display:inline-block;
+    margin-left: auto;
+    padding: 5px;
+
+}
+.name {
+    font-size: 15px;
+}
+.caption{ 
+    padding: 10px;
+ }
+ .likes {
+     padding: 10px;
+ }
